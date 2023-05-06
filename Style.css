@@ -65,3 +65,19 @@ button:hover {
 			color: #fff;
 			text-decoration: underline;
 		}
+		
+		.hero {
+  background-image: url("Pictorial/IMG_0355.gif");
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: 50px;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
