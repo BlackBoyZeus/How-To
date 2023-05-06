@@ -91,3 +91,23 @@ button:hover {
   text-shadow: 2px 2px black;
 }
 
+.container {
+			display: flex;
+		}
+		
+		.hero {
+			background-size: cover;
+			height: 500px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex: 1;
+		}
+		
+		.hero-1 {
+			background-image: url("Pictorial/IMG_0355.mov");
+		}
+		
+		.hero-2 {
+			background-image: url("Pictorial/IMG_0357.mov");
+		}
