@@ -67,7 +67,16 @@ button:hover {
 		}
 		
 		.hero {
-  background-image: url("Pictorial/IMG_0355.gif");
+  background-image: url("Pictorial/IMG_0355.mov");
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+	.hero {
+  background-image: url("Pictorial/IMG_0357.mov");
   background-size: cover;
   height: 500px;
   display: flex;
