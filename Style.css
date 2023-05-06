@@ -71,17 +71,19 @@ button:hover {
 	}
 
 .container {
-			display: flex;
-		}
-		
-		.hero {
-			background-size: cover;
-			height: 500px;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			flex: 1;
-		}
+	display: flex;
+}
+
+.hero {
+	background-size: cover;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex: 1;
+	margin: 10px;
+}
+
 		
 		.hero-1 {
 			background-image: url("Pictorial/IMG_0355.mov");
